@@ -10,3 +10,5 @@ This mobile application for new researchers or kids who want to explore the unde
 #postgresql
 
 #deepLearning
+
+You can watch tutorial of this mobile app at : https://youtu.be/nRayv4FDAeI
